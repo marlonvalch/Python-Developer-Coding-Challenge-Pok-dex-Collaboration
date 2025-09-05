@@ -1,10 +1,13 @@
 # Mini Pokedex CLI Setup & Usage Instructions
 
+
 ## Environment Setup
 
 1. **Install Python 3.11**
    - Download from [python.org](https://www.python.org/downloads/release/python-3110/)
    - Ensure `python3.11` is available in your PATH.
+   - MAKE SURE TO DOWNLOAD THE file " Mini PokedexCL.rar " , uncompress it
+   - MAKE SURE TO open the folder in Visual Studio Code 
 
 2. **Install uv (Python package manager)**
    - Run: `pip install uv`
@@ -137,4 +140,5 @@ You should see output indicating the results of your tests (e.g., OK if all pass
 - [Webex Python SDK](https://github.com/CiscoDevNet/webexteamssdk)
 - [pymongo](https://pymongo.readthedocs.io/)
 - [uv](https://docs.astral.sh/uv/)
+
 
